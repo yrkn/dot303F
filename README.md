@@ -11,3 +11,9 @@ As for Object Pooling, a pool was created to hold 10 objects, and these objects 
 When the character comes into contact with an object, the object is returned to the pool, and after a 5-second delay, it is retrieved again from the pool and spawned at a random location.
 
 prepared for the 3rd grade final project.
+
+<br>
+<p align="center">
+  <img src="https://github.com/yrkn/patternsample/blob/main/ss.png" width="500"/>
+</p>
+
